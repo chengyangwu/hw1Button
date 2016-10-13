@@ -262,7 +262,7 @@
 				DEVELOPMENT_TEAM = N8UC6232DY;
 				INFOPLIST_FILE = hw1Button/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.edward.hw1Button;
+				PRODUCT_BUNDLE_IDENTIFIER = com.edward.hw1Buttons;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -275,7 +275,7 @@
 				DEVELOPMENT_TEAM = N8UC6232DY;
 				INFOPLIST_FILE = hw1Button/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.edward.hw1Button;
+				PRODUCT_BUNDLE_IDENTIFIER = com.edward.hw1Buttons;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
